@@ -29,3 +29,10 @@ UTKFace only	| 4.62 |	98.1%	| 5.8%
 Combined v2 |	4.62 |	97.9%	| 5.6%
 
 Bottom line: at the raw boundary, ~5.6% of under-16s slip through. To hit ≤1% leak, we need a 10-year buffer (challenge age 26), which forces 32% of adults into a secondary check.
+
+
+
+### Datasets:
+
+FGNET https://www.kaggle.com/datasets/aiolapo/fgnet-dataset
+UTKFace https://www.kaggle.com/datasets/jangedoo/utkface-new
