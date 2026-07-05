@@ -22,7 +22,7 @@ Copies misclassified images to review/ for manual label audit
 Subject-disjoint split (no identity leakage), image-extension filter, path tracking
 
 ## Best results so far
-Model |	MAE ↓	|Binary acc @ 16	| Under-16 leak @ 16
+Dataset |	MAE ↓	|Binary acc @ 16	| Under-16 leak @ 16
 | --- | --- | --- | --- |
 FG-NET only |	3.82 |	90.6%	| 10.8%
 UTKFace only	| 4.62 |	98.1%	| 5.8%
