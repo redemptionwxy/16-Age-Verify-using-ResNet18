@@ -1,4 +1,4 @@
-# 16AgeVerify
+# 16 Age Verification using ResNet18
 
 ## Goal: 
 
